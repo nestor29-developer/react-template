@@ -1,9 +1,9 @@
 {
-  "name": "contentstack-react-starter-app",
-  "description": "A starter app for Contentstack and React",
+  "name": "react-starter-app",
+  "description": "A starter app",
   "version": "1.2.1",
   "private": true,
-  "author": "Contentstack",
+  "author": "",
   "dependencies": {
     "@contentstack/utils": "^1.1.1",
     "contentstack": "^3.15.0",
